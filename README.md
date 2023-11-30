@@ -6,7 +6,11 @@ This project enables a range of image processing operations, focusing on convolu
 
 ## VIDEO OF OUTPUT
 
-https://github.com/Nancy0192/VGA-DISPLAY/assets/140998633/582c2fe9-db4b-401e-8054-36b619113491
 
 
+
+
+
+
+https://github.com/Nancy0192/VGA-DISPLAY/assets/140998633/050ad9ab-cd5d-4749-84a0-639eb7437935
 
